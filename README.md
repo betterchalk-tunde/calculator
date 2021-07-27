@@ -1,0 +1,1 @@
+#This is an app to create a user and validate the user input and display a message whether the validation is successful or not using TypeScript
